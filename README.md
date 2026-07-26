@@ -93,6 +93,8 @@ This guide covers:
 
 ---
 
-# Author
+## Author
 
-Created as a learning and reference project for IT security fundamentals.
+Created by: Noel E Rosas Jr.
+
+A learning and reference project for IT security fundamentals, Linux system hardening, and cybersecurity best practices.
