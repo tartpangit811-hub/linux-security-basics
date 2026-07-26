@@ -1,111 +1,128 @@
-# Password Security Guide
+# Password Security
 
-## Why Password Security Matters
+## Introduction
 
-Passwords protect your accounts, devices, and sensitive information.
+Password security is the practice of creating and protecting passwords to prevent unauthorized access to systems, accounts, and sensitive information.
 
-Weak passwords can be guessed, stolen, or cracked.
+Strong password practices are an important part of overall system security.
 
 ---
 
-## Characteristics of a Strong Password
+# 1. Importance of Password Security
+
+Password security helps to:
+
+- Protect user accounts
+- Prevent unauthorized access
+- Secure sensitive data
+- Reduce identity theft risks
+- Improve system protection
+
+---
+
+# 2. Creating Strong Passwords
 
 A strong password should:
 
-- Be at least 12 characters long
-- Contain uppercase and lowercase letters
+- Be long and complex
+- Use uppercase letters
+- Use lowercase letters
 - Include numbers
 - Include special characters
-- Be unique for every account
 
-Example:
+Example characteristics:
 
-```text
-T3rmux!Guide#2026
-```
-
----
-
-## Common Password Mistakes
-
-Avoid:
-
-- 123456
-- password
-- qwerty
-- your birthday
-- your name
-
-These are easily guessed.
+- Minimum of 12 characters
+- Unique for each account
+- Difficult to guess
 
 ---
 
-## Use Different Passwords
+# 3. Password Security Best Practices
 
-Do not reuse the same password for:
+Follow these practices:
 
-- Email
-- Social media
-- Banking
-- Work accounts
-
-If one account is compromised, others remain protected.
+- Do not share passwords
+- Avoid using personal information
+- Do not reuse passwords
+- Change compromised passwords immediately
+- Use a password manager
 
 ---
 
-## Enable Multi-Factor Authentication (MFA)
+# 4. Multi-Factor Authentication (MFA)
 
-MFA adds an extra layer of security.
+MFA adds another layer of security.
 
 Examples:
 
-- SMS code
-- Authentication app
-- Security key
-
----
-
-## Password Managers
-
-Password managers help generate and store strong passwords.
+- Password + verification code
+- Password + security key
+- Password + biometric verification
 
 Benefits:
 
-- Unique passwords
-- Strong password generation
-- Secure storage
+- Provides stronger account protection
+- Reduces risk from stolen passwords
 
 ---
 
-## Change Passwords When Necessary
+# 5. Protecting Passwords
 
-Change passwords if:
+Keep passwords secure by:
 
-- You suspect unauthorized access
-- A service reports a data breach
-- Your password has been exposed
-
----
-
-## Check for Data Breaches
-
-Monitor trusted security notifications and service alerts.
-
-Update affected passwords immediately.
+- Storing them safely
+- Avoiding writing passwords in public places
+- Using encrypted password managers
+- Logging out from shared devices
 
 ---
 
-## Security Best Practices
+# 6. Common Password Attacks
 
-- Use long passwords
+## Brute Force Attack
+
+Attackers try many password combinations until they find the correct one.
+
+---
+
+## Dictionary Attack
+
+Uses common words and password lists to guess passwords.
+
+---
+
+## Credential Stuffing
+
+Uses stolen username and password combinations from previous breaches.
+
+---
+
+# 7. Password Management for Organizations
+
+Organizations should:
+
+- Enforce strong password policies
+- Require password changes when needed
+- Monitor failed login attempts
+- Disable unused accounts
 - Enable MFA
-- Use a password manager
-- Never share passwords
-- Avoid writing passwords in public places
-- Keep recovery information updated
 
 ---
 
-## Summary
+# 8. Password Security Checklist
 
-Strong passwords are one of the simplest and most effective ways to improve account security.
+- [ ] Strong password created
+- [ ] Password is unique
+- [ ] MFA enabled
+- [ ] Password manager used
+- [ ] Compromised passwords replaced
+- [ ] Account activity monitored
+
+---
+
+# Conclusion
+
+Strong password security protects accounts and systems from unauthorized access.
+
+Using complex passwords, MFA, and proper password management greatly improves security.
