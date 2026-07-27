@@ -1,5 +1,7 @@
 # System Security Guide
 
+![System Security Overview](Images/33caa7b1-dc50-453c-a295-c69e6ed813b8.png)
+
 ## Introduction
 
 This repository contains a complete system security guide covering essential concepts, practices, and procedures for protecting computers, networks, applications, and data.
